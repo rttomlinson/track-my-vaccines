@@ -1,0 +1,24 @@
+{
+    "id": "000000",
+    "name": "Renzo Tomlinson",
+    "vaccinations": [{
+        "medical_name": "influenza",
+        "common_name": "flu",
+        "initial_immunization_date": "1488880520320",
+        "last_immunization_date": "1488880520320",
+        "rec_reimmunization": "1520330120320" 
+    },
+    {
+        "common_name": "td,tdap",
+        "medical_name": "tetanus,diphtheria,pertussis",
+        "initial_immunization_date": "1488880520320",
+        "last_immunization_date": "1488880520320",
+        "rec_reimmunization": "1520330120320" 
+    }]
+    
+    
+    
+    
+}
+
+

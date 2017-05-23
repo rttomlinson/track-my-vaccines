@@ -1,0 +1,14 @@
+{
+    "vaccines" : [{
+        "common_name": "flu",
+        "medical_name": "influenza",
+        "recommended_interval": "52",
+        "recommended_initial": "988"
+    },
+    {
+        "common_name": "td,tdap",
+        "medical_name": "tetanus,diphtheria,pertussis",
+        "recommended_interval": "520",
+        "recommended_initial": "988"
+    }]
+}
